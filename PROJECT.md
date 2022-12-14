@@ -1,6 +1,6 @@
 ## PROJECT
 
-Your project is finishing and submitting the lab from streming module. It is an **individual** project.
+Your project is finishing and submitting the lab from streaming module (module 3). It is an **individual** project.
 The deadline is **31/12/2022**. Export your notebook from the Databricks and send it to
 **pkaferledevisschere@omnesintervenant.com**.
 
